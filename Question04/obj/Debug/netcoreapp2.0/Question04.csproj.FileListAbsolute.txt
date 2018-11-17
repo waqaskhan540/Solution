@@ -1,0 +1,10 @@
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question04\bin\Debug\netcoreapp2.0\Question04.deps.json
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question04\bin\Debug\netcoreapp2.0\Question04.runtimeconfig.json
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question04\bin\Debug\netcoreapp2.0\Question04.runtimeconfig.dev.json
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question04\bin\Debug\netcoreapp2.0\Question04.dll
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question04\bin\Debug\netcoreapp2.0\Question04.pdb
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question04\obj\Debug\netcoreapp2.0\Question04.csproj.CoreCompileInputs.cache
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question04\obj\Debug\netcoreapp2.0\Question04.AssemblyInfoInputs.cache
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question04\obj\Debug\netcoreapp2.0\Question04.AssemblyInfo.cs
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question04\obj\Debug\netcoreapp2.0\Question04.dll
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question04\obj\Debug\netcoreapp2.0\Question04.pdb

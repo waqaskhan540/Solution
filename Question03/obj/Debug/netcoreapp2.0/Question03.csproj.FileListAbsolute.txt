@@ -1,0 +1,11 @@
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question03\bin\Debug\netcoreapp2.0\Question03.deps.json
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question03\bin\Debug\netcoreapp2.0\Question03.runtimeconfig.json
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question03\bin\Debug\netcoreapp2.0\Question03.runtimeconfig.dev.json
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question03\bin\Debug\netcoreapp2.0\Question03.dll
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question03\bin\Debug\netcoreapp2.0\Question03.pdb
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question03\obj\Debug\netcoreapp2.0\Question03.csprojResolveAssemblyReference.cache
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question03\obj\Debug\netcoreapp2.0\Question03.csproj.CoreCompileInputs.cache
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question03\obj\Debug\netcoreapp2.0\Question03.AssemblyInfoInputs.cache
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question03\obj\Debug\netcoreapp2.0\Question03.AssemblyInfo.cs
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question03\obj\Debug\netcoreapp2.0\Question03.dll
+c:\users\mwaqas\documents\visual studio 2017\Projects\Question02\Question03\obj\Debug\netcoreapp2.0\Question03.pdb
